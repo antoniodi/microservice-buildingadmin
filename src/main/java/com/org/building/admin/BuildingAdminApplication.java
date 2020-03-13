@@ -1,13 +1,13 @@
-package com.org.buildingadmin;
+package com.org.building.admin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BuildingadminApplication {
+public class BuildingAdminApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BuildingadminApplication.class, args);
+		SpringApplication.run(BuildingAdminApplication.class, args);
 	}
 
 }
